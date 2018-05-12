@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23506#Chance--A-Tale-in-Two-Parts
 gutenberg_issued: '2007-11-16'
 gutenberg_type: Text
 identifiers:
